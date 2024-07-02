@@ -1,0 +1,7 @@
+artifact_location: file:///D:/UsingSpace/Projects/Artificial Intelligent/ComputerVision/ObjectDetection/YOLO/Poke
+  Card Detection/Yolo-Weights/runs/mlflow/706784300630856330
+creation_time: 1719927465261
+experiment_id: '706784300630856330'
+last_update_time: 1719927465261
+lifecycle_stage: active
+name: /Shared/YOLOv8

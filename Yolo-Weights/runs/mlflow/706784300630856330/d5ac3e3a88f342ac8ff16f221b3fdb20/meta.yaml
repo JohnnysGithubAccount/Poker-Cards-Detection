@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/UsingSpace/Projects/Artificial Intelligent/ComputerVision/ObjectDetection/YOLO/Poke
+  Card Detection/Yolo-Weights/runs/mlflow/706784300630856330/d5ac3e3a88f342ac8ff16f221b3fdb20/artifacts
+end_time: 1719933304178
+entry_point_name: ''
+experiment_id: '706784300630856330'
+lifecycle_stage: active
+run_id: d5ac3e3a88f342ac8ff16f221b3fdb20
+run_name: train
+run_uuid: d5ac3e3a88f342ac8ff16f221b3fdb20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719927465815
+status: 3
+tags: []
+user_id: Admins
